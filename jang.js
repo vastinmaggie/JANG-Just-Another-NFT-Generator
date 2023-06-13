@@ -9,8 +9,8 @@ const projectDescription = 'If you go to your grave without painting your master
 const supply = 10000; // Number of NFT's to generate
 const imageURL = `https://jamesbachini.com/images/$nftID.png`; // IPFS URL - $nftID autoinjects 1-10000
 const imageSize = {
-  width: 512,
-  height: 512,
+  width: 1000,
+  height: 1000,
 };
 
 const dir = {
